@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095450589828",
+    "project_id": "brondo-d4f88",
+    "storage_bucket": "brondo-d4f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095450589828:android:fd125262763d98d1f760d1",
+        "android_client_info": {
+          "package_name": "com.example.brondo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY71cNENXJZAv2VvG2NJef1w-VD5pEixU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
